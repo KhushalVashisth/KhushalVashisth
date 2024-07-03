@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate Indian Developer . I love to talk about new techs and things. I have a keen interest in Web Development and AI also I love travelling <br>
+I am a passionate Indian Developer .
+I love to talk about new techs and things.
+I have a keen interest in Web Development and AI 
+I love travelling and Playing E-Games <br>
+[![An image of @khushalvashisth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushalvashisth)](https://holopin.io/@khushalvashisth)
 
 
 ## 🌐 Socials:
@@ -28,4 +32,4 @@ I am a passionate Indian Developer . I love to talk about new techs and things. 
 [![](https://visitcount.itsvg.in/api?id=KhushalVashisth&icon=4&color=10)](https://visitcount.itsvg.in)
 
 
-[![An image of @khushalvashisth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushalvashisth)](https://holopin.io/@khushalvashisth)
+

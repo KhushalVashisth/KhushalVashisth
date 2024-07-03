@@ -22,11 +22,6 @@ I love travelling and Playing E-Games <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhushalVashisth&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KhushalVashisth&icon=4&color=10)](https://visitcount.itsvg.in)
